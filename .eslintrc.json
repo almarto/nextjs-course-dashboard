@@ -22,43 +22,7 @@
         "distinctGroup": false,
         "pathGroups": [
           {
-            "pattern": "api",
-            "group": "internal"
-          },
-          {
-            "pattern": "components/**",
-            "group": "internal"
-          },
-          {
-            "pattern": "config/**",
-            "group": "internal"
-          },
-          {
-            "pattern": "pages/**",
-            "group": "internal"
-          },
-          {
-            "pattern": "router/**",
-            "group": "internal"
-          },
-          {
-            "pattern": "service/**",
-            "group": "internal"
-          },
-          {
-            "pattern": "types/**",
-            "group": "internal"
-          },
-          {
-            "pattern": "utils/**",
-            "group": "internal"
-          },
-          {
-            "pattern": "domain/**",
-            "group": "internal"
-          },
-          {
-            "pattern": "App",
+            "pattern": "@/**",
             "group": "internal"
           }
         ],
