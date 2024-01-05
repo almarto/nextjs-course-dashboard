@@ -1,7 +1,5 @@
 'use server';
 
-import { error } from 'console';
-
 import { sql } from '@vercel/postgres';
 import { revalidatePath } from 'next/cache';
 import { redirect } from 'next/navigation';
